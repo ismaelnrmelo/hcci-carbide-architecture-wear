@@ -1,0 +1,476 @@
+{
+  "pearson": {
+    "Fração volumétrica de carbonetos": [
+      0.281,
+      0.311,
+      -0.065
+    ],
+    "Número de carbonetos": [
+      0.48,
+      0.475,
+      0.471
+    ],
+    "Área": [
+      -0.066,
+      -0.263,
+      -0.014
+    ],
+    "Largura (Width)": [
+      -0.201,
+      -0.372,
+      -0.085
+    ],
+    "Altura (Height)": [
+      -0.221,
+      -0.437,
+      0.053
+    ],
+    "Feret mínimo": [
+      -0.176,
+      -0.303,
+      -0.075
+    ],
+    "Eixo maior (Major)": [
+      -0.222,
+      -0.376,
+      0.063
+    ],
+    "Eixo menor (Minor)": [
+      -0.162,
+      -0.256,
+      -0.047
+    ],
+    "Diâmetro médio": [
+      -0.194,
+      -0.32,
+      -0.031
+    ],
+    "Diâmetro de Feret": [
+      -0.226,
+      -0.376,
+      0.005
+    ],
+    "Perímetro": [
+      -0.181,
+      -0.369,
+      -0.125
+    ],
+    "Circularidade": [
+      0.624,
+      0.66,
+      -0.15
+    ],
+    "Superfície específica": [
+      0.357,
+      0.363,
+      0.293
+    ],
+    "Arredondamento": [
+      0.48,
+      0.303,
+      0.355
+    ],
+    "Razão de Feret": [
+      -0.166,
+      -0.278,
+      0.227
+    ],
+    "Razão de aspecto (AR)": [
+      -0.213,
+      -0.312,
+      0.213
+    ],
+    "Solidez": [
+      0.385,
+      0.14,
+      0.112
+    ],
+    "λmédio": [
+      -0.584,
+      -0.599,
+      -0.331
+    ],
+    "λmediano": [
+      -0.538,
+      -0.572,
+      -0.329
+    ],
+    "λcontagem": [
+      0.491,
+      0.445,
+      -0.076
+    ],
+    "λvariância": [
+      -0.623,
+      -0.614,
+      -0.429
+    ],
+    "Área de Voronoi (média)": [
+      -0.299,
+      -0.309,
+      -0.002
+    ],
+    "CV Área de Voronoi (imagem)": [
+      -0.092,
+      -0.142,
+      0.099
+    ],
+    "Distância Delaunay": [
+      -0.354,
+      -0.39,
+      0.06
+    ],
+    "KNN": [
+      -0.306,
+      -0.335,
+      0.04
+    ]
+  },
+  "kfac": 1.0,
+  "data_equivalente": {
+    "A1": {
+      "k": 1.8784,
+      "Circ_median": 0.66,
+      "Dm_median": 3.7936,
+      "lambda_median_median": 21.8205,
+      "lambda_var_median": 664.3029,
+      "FVC_mean": 0.2611,
+      "Delaunay_mean": 17.4031,
+      "Voronoi_mean": 197.0623,
+      "Voronoi_CV_mean": 0.7136,
+      "FVC_percent": 26.1057,
+      "Black_Median_Variance_Ratio": 0.0328,
+      "k_plot": 1.8784
+    },
+    "A2": {
+      "k": 2.8081,
+      "Circ_median": 0.709,
+      "Dm_median": 3.0251,
+      "lambda_median_median": 20.7073,
+      "lambda_var_median": 453.3451,
+      "FVC_mean": 0.3268,
+      "Delaunay_mean": 18.9305,
+      "Voronoi_mean": 224.0101,
+      "Voronoi_CV_mean": 0.6751,
+      "FVC_percent": 32.6807,
+      "Black_Median_Variance_Ratio": 0.0457,
+      "k_plot": 2.8081
+    },
+    "A3": {
+      "k": 1.3201,
+      "Circ_median": 0.634,
+      "Dm_median": 3.9406,
+      "lambda_median_median": 22.2658,
+      "lambda_var_median": 709.0173,
+      "FVC_mean": 0.2265,
+      "Delaunay_mean": 15.5409,
+      "Voronoi_mean": 155.741,
+      "Voronoi_CV_mean": 0.691,
+      "FVC_percent": 22.648,
+      "Black_Median_Variance_Ratio": 0.0314,
+      "k_plot": 1.3201
+    },
+    "B1": {
+      "k": 1.5543,
+      "Circ_median": 0.6805,
+      "Dm_median": 3.9486,
+      "lambda_median_median": 20.0394,
+      "lambda_var_median": 588.6724,
+      "FVC_mean": 0.2799,
+      "Delaunay_mean": 15.2747,
+      "Voronoi_mean": 152.2587,
+      "Voronoi_CV_mean": 0.6957,
+      "FVC_percent": 27.9934,
+      "Black_Median_Variance_Ratio": 0.034,
+      "k_plot": 1.5543
+    },
+    "B2": {
+      "k": 1.19,
+      "Circ_median": 0.6875,
+      "Dm_median": 3.8596,
+      "lambda_median_median": 20.93,
+      "lambda_var_median": 545.7557,
+      "FVC_mean": 0.3128,
+      "Delaunay_mean": 17.1413,
+      "Voronoi_mean": 187.0863,
+      "Voronoi_CV_mean": 0.7106,
+      "FVC_percent": 31.2833,
+      "Black_Median_Variance_Ratio": 0.0384,
+      "k_plot": 1.19
+    },
+    "B3": {
+      "k": 1.6324,
+      "Circ_median": 0.6615,
+      "Dm_median": 4.4873,
+      "lambda_median_median": 20.0394,
+      "lambda_var_median": 648.0309,
+      "FVC_mean": 0.296,
+      "Delaunay_mean": 18.794,
+      "Voronoi_mean": 225.2659,
+      "Voronoi_CV_mean": 0.7307,
+      "FVC_percent": 29.6047,
+      "Black_Median_Variance_Ratio": 0.0309,
+      "k_plot": 1.6324
+    },
+    "C1": {
+      "k": 2.8081,
+      "Circ_median": 0.715,
+      "Dm_median": 3.3045,
+      "lambda_median_median": 16.9216,
+      "lambda_var_median": 389.1828,
+      "FVC_mean": 0.3156,
+      "Delaunay_mean": 14.4974,
+      "Voronoi_mean": 147.4025,
+      "Voronoi_CV_mean": 0.7454,
+      "FVC_percent": 31.5577,
+      "Black_Median_Variance_Ratio": 0.0435,
+      "k_plot": 2.8081
+    },
+    "C2": {
+      "k": 2.264,
+      "Circ_median": 0.71,
+      "Dm_median": 2.7522,
+      "lambda_median_median": 16.0311,
+      "lambda_var_median": 322.1444,
+      "FVC_mean": 0.3713,
+      "Delaunay_mean": 13.8318,
+      "Voronoi_mean": 125.6212,
+      "Voronoi_CV_mean": 0.6823,
+      "FVC_percent": 37.1325,
+      "Black_Median_Variance_Ratio": 0.0498,
+      "k_plot": 2.264
+    },
+    "C3": {
+      "k": 3.3593,
+      "Circ_median": 0.747,
+      "Dm_median": 2.8974,
+      "lambda_median_median": 14.6952,
+      "lambda_var_median": 294.1638,
+      "FVC_mean": 0.3223,
+      "Delaunay_mean": 11.473,
+      "Voronoi_mean": 91.1351,
+      "Voronoi_CV_mean": 0.6739,
+      "FVC_percent": 32.2292,
+      "Black_Median_Variance_Ratio": 0.05,
+      "k_plot": 3.3593
+    },
+    "D1": {
+      "k": 2.2403,
+      "Circ_median": 0.675,
+      "Dm_median": 4.3805,
+      "lambda_median_median": 15.5858,
+      "lambda_var_median": 325.9879,
+      "FVC_mean": 0.4198,
+      "Delaunay_mean": 18.3143,
+      "Voronoi_mean": 208.2745,
+      "Voronoi_CV_mean": 0.7111,
+      "FVC_percent": 41.9751,
+      "Black_Median_Variance_Ratio": 0.0478,
+      "k_plot": 2.2403
+    },
+    "D2": {
+      "k": 2.4864,
+      "Circ_median": 0.701,
+      "Dm_median": 4.4377,
+      "lambda_median_median": 16.9216,
+      "lambda_var_median": 369.9177,
+      "FVC_mean": 0.3384,
+      "Delaunay_mean": 14.8765,
+      "Voronoi_mean": 141.3324,
+      "Voronoi_CV_mean": 0.624,
+      "FVC_percent": 33.8384,
+      "Black_Median_Variance_Ratio": 0.0457,
+      "k_plot": 2.4864
+    },
+    "D3": {
+      "k": 2.0795,
+      "Circ_median": 0.683,
+      "Dm_median": 4.5083,
+      "lambda_median_median": 16.4763,
+      "lambda_var_median": 314.4847,
+      "FVC_mean": 0.3979,
+      "Delaunay_mean": 17.7256,
+      "Voronoi_mean": 195.4256,
+      "Voronoi_CV_mean": 0.6744,
+      "FVC_percent": 39.7874,
+      "Black_Median_Variance_Ratio": 0.0524,
+      "k_plot": 2.0795
+    },
+    "E1": {
+      "k": 2.4414,
+      "Circ_median": 0.6935,
+      "Dm_median": 5.2701,
+      "lambda_median_median": 15.5858,
+      "lambda_var_median": 287.5353,
+      "FVC_mean": 0.445,
+      "Delaunay_mean": 19.4166,
+      "Voronoi_mean": 239.7623,
+      "Voronoi_CV_mean": 0.7883,
+      "FVC_percent": 44.498,
+      "Black_Median_Variance_Ratio": 0.0542,
+      "k_plot": 2.4414
+    },
+    "E2": {
+      "k": 2.5573,
+      "Circ_median": 0.662,
+      "Dm_median": 4.5501,
+      "lambda_median_median": 17.8122,
+      "lambda_var_median": 423.1189,
+      "FVC_mean": 0.3894,
+      "Delaunay_mean": 17.7948,
+      "Voronoi_mean": 209.362,
+      "Voronoi_CV_mean": 0.8327,
+      "FVC_percent": 38.944,
+      "Black_Median_Variance_Ratio": 0.0421,
+      "k_plot": 2.5573
+    },
+    "E3": {
+      "k": 1.6134,
+      "Circ_median": 0.673,
+      "Dm_median": 4.4943,
+      "lambda_median_median": 15.5858,
+      "lambda_var_median": 294.1531,
+      "FVC_mean": 0.4375,
+      "Delaunay_mean": 18.9773,
+      "Voronoi_mean": 230.1164,
+      "Voronoi_CV_mean": 0.817,
+      "FVC_percent": 43.7494,
+      "Black_Median_Variance_Ratio": 0.053,
+      "k_plot": 1.6134
+    }
+  },
+  "R2_lin_quad": {
+    "Black_Median_Variance_Ratio": [
+      0.292,
+      0.444
+    ],
+    "Circ_median": [
+      0.557,
+      0.585
+    ],
+    "Delaunay_mean": [
+      0.125,
+      0.411
+    ],
+    "Dm_median": [
+      0.112,
+      0.398
+    ],
+    "FVC_mean": [
+      0.079,
+      0.298
+    ],
+    "FVC_percent": [
+      0.079,
+      0.298
+    ],
+    "Voronoi_CV_mean": [
+      0.008,
+      0.098
+    ],
+    "Voronoi_mean": [
+      0.09,
+      0.372
+    ],
+    "lambda_median_median": [
+      0.327,
+      0.327
+    ],
+    "lambda_var_median": [
+      0.376,
+      0.406
+    ]
+  },
+  "fig6_R2": [
+    0.106,
+    0.258
+  ],
+  "zumgahr_R2": 0.005,
+  "top50_freq": {
+    "Voronoi_mean": 41,
+    "lambda_var_median": 38,
+    "Delaunay_mean": 36,
+    "FVC_percent": 34,
+    "Voronoi_CV_mean": 28,
+    "Black_Median_Variance_Ratio": 19,
+    "lambda_median_median": 16,
+    "Circ_median": 15,
+    "Dm_median": 12
+  },
+  "best": {
+    "features": "Black_Median_Variance_Ratio | lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean",
+    "R2": 0.7762,
+    "Adj_R2": 0.6518,
+    "n_feat": 5,
+    "b_const": 25.967551242904513,
+    "coefs": {
+      "Black_Median_Variance_Ratio": -53.26678970525911,
+      "lambda_var_median": -0.005093010077587223,
+      "Delaunay_mean": -1.8929049958209883,
+      "Voronoi_mean": 0.10260204973447884,
+      "Voronoi_CV_mean": -8.887443508656576
+    }
+  },
+  "best5": [
+    {
+      "n_feat": 5,
+      "R2": 0.7762,
+      "Adj_R2": 0.6518,
+      "features": "Black_Median_Variance_Ratio | lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.7724,
+      "Adj_R2": 0.6459,
+      "features": "lambda_median_median | lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.7678,
+      "Adj_R2": 0.6388,
+      "features": "Black_Median_Variance_Ratio | lambda_var_median | FVC_percent | Delaunay_mean | Voronoi_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.767,
+      "Adj_R2": 0.6376,
+      "features": "lambda_var_median | FVC_percent | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.7589,
+      "Adj_R2": 0.625,
+      "features": "Circ_median | lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.7577,
+      "Adj_R2": 0.6231,
+      "features": "Dm_median | lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 4,
+      "R2": 0.7552,
+      "Adj_R2": 0.6572,
+      "features": "lambda_var_median | Delaunay_mean | Voronoi_mean | Voronoi_CV_mean"
+    },
+    {
+      "n_feat": 5,
+      "R2": 0.7363,
+      "Adj_R2": 0.5897,
+      "features": "Black_Median_Variance_Ratio | lambda_var_median | FVC_percent | Voronoi_mean | Voronoi_CV_mean"
+    }
+  ],
+  "modelo_artigo1_no_dado": {
+    "R2": 0.767,
+    "Adj_R2": 0.6376,
+    "params": {
+      "const": 20.29317,
+      "lambda_var_median": -0.00467,
+      "FVC_percent": -0.06404,
+      "Delaunay_mean": -1.495,
+      "Voronoi_mean": 0.08293,
+      "Voronoi_CV_mean": -5.65866
+    }
+  }
+}
